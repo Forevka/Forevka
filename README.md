@@ -1,4 +1,8 @@
-### Hi there 👋
+### Smart developer
+- 🌱 I’m currently learning: C++/Rust, C#, JS/TS, T-SQL/PLPGSQL
+- 📫 Feel free to ping me on: zebestforevka@gmail.com and t.me/forevka
+
+✨ Trying to find myself in different things ✨
 
 <!--
 **Forevka/Forevka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

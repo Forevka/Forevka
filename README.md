@@ -18,3 +18,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/Forevka">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=forevka&show_icons=true&include_all_commits=true&theme=vue" alt="Forevka's github stats" />
+</a>
+
+<a href="https://github.com/Forevka">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=forevka&layout=compact&theme=vue" alt="Forevka's github stats" />
+</a>

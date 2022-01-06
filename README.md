@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/Forevka">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=forevka&layout=compact&theme=vue" alt="Forevka's github stats" />
 </a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=forevka&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

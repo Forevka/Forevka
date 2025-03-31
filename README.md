@@ -1,7 +1,7 @@
 ### Smart developer
 - 🌱 I’m currently learning: C++/Rust, C#, JS/TS, T-SQL/PLPGSQL
 - 📫 Feel free to ping me on: zebestforevka@gmail.com and [t.me/forevka](https://t.me/forevka)
-- 😎 Checkout my site: https://blog.forevka.dev
+- 😎 Checkout my site: https://forevka.dev
 
 ✨ Trying to find myself in different things ✨
 

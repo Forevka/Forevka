@@ -1,7 +1,7 @@
 ### Smart developer
 - 🌱 I’m currently learning: C++/Rust, C#, JS/TS, T-SQL/PLPGSQL
 - 📫 Feel free to ping me on: zebestforevka@gmail.com and [t.me/forevka](https://t.me/forevka)
-- 😎 Checkout my site: https://forevka.dev
+- 😎 Checkout my blog: https://forevka.dev
 
 ✨ Trying to find myself in different things ✨
 
@@ -19,12 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/Forevka">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=forevka&show_icons=true&include_all_commits=true&theme=vue" alt="Forevka's github stats" />
-</a>
 
-<a href="https://github.com/Forevka">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=forevka&layout=compact&theme=vue" alt="Forevka's github stats" />
-</a>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=forevka&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/forevka?cardType=level&theme=github-dark&fontFamily=Beiruti&preferLogin=false)](https://git.io/awesome-stats-card)
